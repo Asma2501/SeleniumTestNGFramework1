@@ -64,7 +64,7 @@ public class AddtoCartTestCase {
 		double e = Double.parseDouble(z1);
 
 		double Totalprice = d + e;
-		System.out.println(Totalprice)
+		System.out.println(Totalprice);
 		
 
 		Thread.sleep(4000);
